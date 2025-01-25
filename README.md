@@ -2,8 +2,9 @@
 - 👀 I’m interested in frontend developments
 - 🌱 I’m currently learning lot of things, can't specify one!
 - 💞️ I’m looking to collaborate on instagram, reach me out!!
-- 📫 How to reach me DM me or mail me.
+- 📫 How to reach me? DM me or mail me.
 - 😄 Pronouns: he/him
+
 
 <!---
 itsNooms/itsNooms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
