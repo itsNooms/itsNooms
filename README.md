@@ -115,7 +115,7 @@ MPC (Maths, Physics, Chemistry)
 
 ## 🎯 Hobbies
 
-✍️ Writing | 📖 Reading | 🌱 Gardening | 🍳 Cooking | 🧹 Organizing | 🐱 Pet Care
+✍️ Writing | 📖 Reading | 🌱 Gardening | 🍳 Cooking | 🧹 Organizing | 👻 Watching Horror Genre | 🐱 Pet Care
 
 ---
 
