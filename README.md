@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" alt="Header Banner" width="100%">
+  <img src="img.png" alt="Header Banner" width="100%" style="border-radius: 15px;>
 </p>
 
 ## 👨‍💻 About Me
