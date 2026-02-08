@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nooman Nasir Khan</h1>
-<h3 align="center">Computer Science Student | Aspiring FrontEnd Developer & Designer </h3>
-
 <p align="center">
-On a journey to become a great human being 🌱
+  <img src="C:\Users\Nooman Nasir Khan\Downloads\git.png" alt="Header Banner" width="100%">
 </p>
-
 ---
 
 ## 👨‍💻 About Me
