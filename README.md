@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Nooman Nasir Khan\Downloads\git.png" alt="Header Banner" width="100%">
+  <img src="git.png" alt="Header Banner" width="100%">
 </p>
 ---
 
