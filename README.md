@@ -1,142 +1,198 @@
-<h1 align="center">Hi 👋, I'm Nooman Nasir Khan</h1>
-<h3 align="center">Computer Science Student | Aspiring FrontEnd Developer & Designer </h3>
+<div align="center">
+  
+# 👋 Hi, I'm Nooman Nasir Khan
+
+### Computer Science Student | Aspiring Frontend Developer & Designer
+*On a journey to become a great human being 🌱*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://itsnooms.github.io/NOOMS/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsNooms)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=itsNooms&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/itsNooms?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/itsNooms?style=social)
+
+</div>
 
 <p align="center">
-On a journey to become a great human being 🌱
+  <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsNooms&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsNooms&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsNooms&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" />
+</p>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsNooms&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&theme=tokyo-night)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsNooms&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **passionate and motivated Computer Science student** with a strong interest in  
-**programming, web development, and problem-solving**.
-
-- 🎓 B.Tech CSE (2022 – 2026)
-- 💻 Love building real-world applications
-- 🌱 Currently learning **Python, Java & Database Management**
-- 🚀 Exploring **full-stack development & system design**
-- 🤝 Open to internships & collaborative projects
-
----
-
-## 🛠️ Skills & Technologies
-
-### Programming Languages                                                      
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-
-### Web Technologies
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### Databases & Tools
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+```typescript
+const nooman = {
+    education: "B.Tech CSE (2022 - 2026)",
+    college: "Maharaj Vijayaram Gajapathi Raj College of Engineering",
+    role: "Frontend Developer & Designer",
+    currentFocus: ["Python", "Java", "Database Management"],
+    exploring: ["Full-Stack Development", "System Design"],
+    openTo: ["Internships", "Collaborative Projects", "Open Source"],
+    lifeGoal: "Becoming a great human being 🌱"
+};
+```
 
 ---
 
-## 📌 Education
+## 🛠️ Tech Stack & Tools
 
-🎓 **Maharaj Vijayaram Gajapathi Raj College of Engineering**  
-Bachelor of Technology – Computer Science  
+### 💻 Programming Languages
 
-🏫 **NRI Junior College**  
-MPC (Maths, Physics, Chemistry) 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
 
----
+### 🌐 Web Technologies
 
-## 🚀 Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
 
-- 🏥 **Health Care Chatbot (Python)**  
-  Helps with hospital search, appointments & emergency responses
+### 🗄️ Databases & DevOps
 
-- 🥬 **Organic E-Commerce Website**  
-  Web app to sell organic vegetables grown on campus
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
+</p>
 
-- 🚆 **Train Ticket Booking System (C)**  
-  Implemented using DSA concepts
+### 🔧 Tools & Platforms
 
-- 🚗 **Car Sales Management System (SQL)**  
-  Database system for sales & employee records
-
-- 🍽️ **Digital QR Menu**  
-  QR-based digital menu for cafes & restaurants
-
-- 🧮 **Basic Calculator**  
-  Built using HTML & CSS
-
----
-
-## 💼 Experience & Internships
-
-- 👨‍💻 **Front-End Developer Intern – Cognifyz**
-- 📊 **Data Visualization – TATA (Forage)**
-- ☁️ **AWS Solution Architecture – Forage**
-
----
-
-## 📜 Certifications
-
-- 📌 Cloud Computing – NPTEL  
-- 📌 Leadership & Team Effectiveness – NPTEL  
-- 📌 AIML Virtual Internship – AICTE  
-- 📌 Android Developer Virtual Internship – AICTE  
-- 📌 AutoCAD – GUVI  
-- 📌 ChatGPT for Everyone – GUVI  
-- 📌 Packet Tracer – CISCO  
-- 📌 C++ Programming – CLA  
-
----
-
-## 🌍 Communities
-
-- 🌐 Google Developer Group (GDG)
-- 🎥 BOI – Born On Instagram Creators
-- ♻️ Swacha GLUG (College Club)
-
----
-
-## 🌟 Strengths
-
-- 🧠 Creative Problem Solving  
-- 👥 Leadership & Team Management  
-- 💬 Strong Communication Skills  
-
----
-
-## 🎯 Hobbies
-
-✍️ Writing | 📖 Reading | 🌱 Gardening | 🍳 Cooking | 🧹 Organizing | 👻 Watching Horror Genre | 🐱 Pet Care
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsNooms&layout=compact&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,aws" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b)
-- 🌐 [Portfolio](https://itsnooms.github.io/NOOMS/)
-- 🧑‍💻 [GitHub](https://github.com/itsNooms)
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **Health Care Chatbot** | Hospital search, appointments & emergency responses | Python |
+| 🥬 **Organic E-Commerce** | Web app for organic vegetables | HTML, CSS, JS |
+| 🚆 **Train Ticket Booking** | DSA-based booking system | C |
+| 🚗 **Car Sales Management** | Database for sales & employee records | SQL |
+| 🍽️ **Digital QR Menu** | QR-based menu for restaurants | Web Technologies |
+| 🧮 **Basic Calculator** | Simple web calculator | HTML, CSS |
+
+</div>
 
 ---
 
+## 💼 Professional Experience
+
+```yaml
+Internships:
+  - role: Front-End Developer Intern
+    company: Cognifyz
+    
+  - role: Data Visualization Intern
+    company: TATA (via Forage)
+    
+  - role: AWS Solution Architecture
+    company: AWS (via Forage)
+```
+
+---
+
+## 📜 Certifications & Achievements
+
+<details>
+<summary><b>🎓 View All Certifications</b></summary>
+<br>
+
+- 📌 **Cloud Computing** - NPTEL
+- 📌 **Leadership & Team Effectiveness** - NPTEL
+- 📌 **AIML Virtual Internship** - AICTE
+- 📌 **Android Developer Virtual Internship** - AICTE
+- 📌 **AutoCAD** - GUVI
+- 📌 **ChatGPT for Everyone** - GUVI
+- 📌 **Packet Tracer** - CISCO
+- 📌 **C++ Programming** - CLA
+
+</details>
+
+---
+
+## 🌍 Community Involvement
+
 <p align="center">
-✨ Thanks for visiting my profile ✨  
-Let’s build something amazing together 🚀
+  <img src="https://img.shields.io/badge/Google_Developer_Group-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOI_Creators-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swacha_GLUG-00C853?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+
+---
+
+## 🌟 Core Strengths
+
+<div align="center">
+
+| 🧠 Creative Problem Solving | 👥 Leadership & Team Management | 💬 Strong Communication |
+|:---------------------------:|:-------------------------------:|:-----------------------:|
+| Innovative thinking | Collaborative approach | Clear articulation |
+
+</div>
+
+---
+
+## 🎯 Hobbies & Interests
+
+<p align="center">
+  ✍️ Writing | 📖 Reading | 🌱 Gardening | 🍳 Cooking | 🧹 Organizing | 👻 Horror Genre | 🐱 Pet Care
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsnooms.github.io/NOOMS/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsNooms)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ Thanks for visiting my profile! ✨
+### Let's build something amazing together 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
