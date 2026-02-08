@@ -25,14 +25,15 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 ![C](https://skillicons.dev/icons?i=c)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java) &nbsp
+![Java](https://skillicons.dev/icons?i=java)
+⬛⬛
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
+⬛⬛
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -59,7 +60,7 @@ MPC (Maths, Physics, Chemistry)
 
 - 🚆 **Train Ticket Booking System (C)**  
   Implemented using DSA concepts
-
+  
 - 🚗 **Car Sales Management System (SQL)**  
   Database system for sales & employee records
 
