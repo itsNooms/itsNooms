@@ -48,10 +48,9 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 
 🎓 **Maharaj Vijayaram Gajapathi Raj College of Engineering**  
 Bachelor of Technology – Computer Science  
-**CGPA:** 7.6 (6th Semester)
 
 🏫 **NRI Junior College**  
-MPC (Maths, Physics, Chemistry) – 72%
+MPC (Maths, Physics, Chemistry) 
 
 ---
 
