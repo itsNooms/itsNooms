@@ -30,3 +30,75 @@ Role        : Frontend Developer / CS Engineer
 Location    : Vizianagaram, India
 Focus       : UI • Web • Problem Solving
 Status      : Learning • Building • Evolving
+
+🛠 SKILLS 💪
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,tailwind,bootstrap,mongodb,mysql,figma&theme=dark" /> </p>
+🌱 ON A JOURNEY
+
+Namaste 🙏
+I’m a Computer Science student passionate about frontend development, clean UI/UX, and real-world problem solving.
+
+🌐 Building modern web applications
+
+🎨 Strong interest in UI/UX & aesthetics
+
+☁️ Exploring Cloud Computing & databases
+
+🚀 Always improving, always shipping
+
+🚧 PRESENT STATUS
+
+📘 Learning: Advanced JavaScript & React
+
+☁️ Studying: Cloud Computing (NPTEL)
+
+🛠 Building: Portfolio & Web Projects
+
+🤝 Open to: Internships & Collaboration
+
+🚀 PROJECT ARCHIVES
+<details> <summary><b>Click to Expand</b></summary>
+
+🏥 Health Care Chatbot — Python
+
+🛒 Organic E-Commerce Website — HTML, CSS, JS
+
+🍽 Digital QR Menu — Web Application
+
+🚆 Train Ticket Booking System — C & DSA
+
+🚗 Car Sales Management System — SQL
+
+🧮 Basic Calculator — HTML & CSS
+
+</details>
+💼 EXPERIENCE LOGS
+Frontend Developer Intern:
+  - Cognifyz
+
+Simulations:
+  - TATA : Data Visualization (Forage)
+  - AWS  : Solution Architecture (Forage)
+
+📜 CERTIFICATION VAULT
+<details> <summary><b>View Certifications</b></summary>
+
+Cloud Computing – NPTEL
+
+Leadership & Team Effectiveness – NPTEL
+
+Packet Tracer – CISCO
+
+CLA (C++) – C++ Institute
+
+AIML, Android, Alteryx – AICTE (Eduskills)
+
+AutoCAD, Web Design – GUVI
+
+</details>
+🌌 PERSONAL INTERESTS
+Writing • Reading • Gardening • Cooking • Organizing • Pet Care
+
+📊 GITHUB ANALYTICS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsNooms&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=120&section=footer"/> </p> <p align="center"> <b>⚡ Designing the future, one line of code at a time ⚡</b> </p> ```
