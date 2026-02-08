@@ -21,25 +21,19 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 ---
 
 ## 🛠️ Skills & Technologies
-
-### Programming Languages                                                      
+                                                     
 ![C](https://skillicons.dev/icons?i=c)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
-
-### Web Technologies
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### Databases & Tools
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
