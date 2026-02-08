@@ -1,104 +1,143 @@
-<!-- ===================== FUTURISTIC GITHUB PROFILE ===================== -->
+<h1 align="center">Hi 👋, I'm Nooman Nasir Khan</h1>
+<h3 align="center">Computer Science Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=NOOMAN%20NASIR%20KHAN&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+CS+Student;UI%2FUX+Focused+Builder;Turning+Ideas+Into+Interactive+Experiences" />
-</p>
-
-<p align="center">
-  <a href="https://itsnooms.github.io/NOOMS/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-  </a>
-  <a href="https://github.com/itsNooms">
-    <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-  </a>
+On a journey to become a great human being 🌱
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## 👨‍💻 About Me
 
-```txt
-Name        : Nooman Nasir Khan
-Role        : Frontend Developer / CS Engineer
-Location    : Vizianagaram, India
-Focus       : UI • Web • Problem Solving
-Status      : Learning • Building • Evolving
+I’m a **passionate and motivated Computer Science student** with a strong interest in  
+**programming, web development, and problem-solving**.
 
-🛠 SKILLS 💪
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,tailwind,bootstrap,mongodb,mysql,figma&theme=dark" /> </p>
-🌱 ON A JOURNEY
+- 🎓 B.Tech CSE (2022 – 2026)
+- 💻 Love building real-world applications
+- 🌱 Currently learning **Python, Java & Database Management**
+- 🚀 Exploring **full-stack development & system design**
+- 🤝 Open to internships & collaborative projects
 
-Namaste 🙏
-I’m a Computer Science student passionate about frontend development, clean UI/UX, and real-world problem solving.
+---
 
-🌐 Building modern web applications
+## 🛠️ Skills & Technologies
 
-🎨 Strong interest in UI/UX & aesthetics
+### Programming Languages
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 
-☁️ Exploring Cloud Computing & databases
+### Web Technologies
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-🚀 Always improving, always shipping
+### Databases & Tools
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
-🚧 PRESENT STATUS
+---
 
-📘 Learning: Advanced JavaScript & React
+## 📌 Education
 
-☁️ Studying: Cloud Computing (NPTEL)
+🎓 **Maharaj Vijayaram Gajapathi Raj College of Engineering**  
+Bachelor of Technology – Computer Science  
+**CGPA:** 7.6 (6th Semester)
 
-🛠 Building: Portfolio & Web Projects
+🏫 **NRI Junior College**  
+MPC (Maths, Physics, Chemistry) – 72%
 
-🤝 Open to: Internships & Collaboration
+---
 
-🚀 PROJECT ARCHIVES
-<details> <summary><b>Click to Expand</b></summary>
+## 🚀 Projects
 
-🏥 Health Care Chatbot — Python
+- 🏥 **Health Care Chatbot (Python)**  
+  Helps with hospital search, appointments & emergency responses
 
-🛒 Organic E-Commerce Website — HTML, CSS, JS
+- 🥬 **Organic E-Commerce Website**  
+  Web app to sell organic vegetables grown on campus
 
-🍽 Digital QR Menu — Web Application
+- 🚆 **Train Ticket Booking System (C)**  
+  Implemented using DSA concepts
 
-🚆 Train Ticket Booking System — C & DSA
+- 🚗 **Car Sales Management System (SQL)**  
+  Database system for sales & employee records
 
-🚗 Car Sales Management System — SQL
+- 🍽️ **Digital QR Menu**  
+  QR-based digital menu for cafes & restaurants
 
-🧮 Basic Calculator — HTML & CSS
+- 🧮 **Basic Calculator**  
+  Built using HTML & CSS
 
-</details>
-💼 EXPERIENCE LOGS
-Frontend Developer Intern:
-  - Cognifyz
+---
 
-Simulations:
-  - TATA : Data Visualization (Forage)
-  - AWS  : Solution Architecture (Forage)
+## 💼 Experience & Internships
 
-📜 CERTIFICATION VAULT
-<details> <summary><b>View Certifications</b></summary>
+- 👨‍💻 **Front-End Developer Intern – Cognifyz**
+- 📊 **Data Visualization – TATA (Forage)**
+- ☁️ **AWS Solution Architecture – Forage**
 
-Cloud Computing – NPTEL
+---
 
-Leadership & Team Effectiveness – NPTEL
+## 📜 Certifications
 
-Packet Tracer – CISCO
+- 📌 Cloud Computing – NPTEL  
+- 📌 Leadership & Team Effectiveness – NPTEL  
+- 📌 AIML Virtual Internship – AICTE  
+- 📌 Android Developer Virtual Internship – AICTE  
+- 📌 AutoCAD – GUVI  
+- 📌 ChatGPT for Everyone – GUVI  
+- 📌 Packet Tracer – CISCO  
+- 📌 C++ Programming – CLA  
 
-CLA (C++) – C++ Institute
+---
 
-AIML, Android, Alteryx – AICTE (Eduskills)
+## 🌍 Communities
 
-AutoCAD, Web Design – GUVI
+- 🌐 Google Developer Group (GDG)
+- 🎥 BOI – Born On Instagram Creators
+- ♻️ Swacha GLUG (College Club)
 
-</details>
-🌌 PERSONAL INTERESTS
-Writing • Reading • Gardening • Cooking • Organizing • Pet Care
+---
 
-📊 GITHUB ANALYTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsNooms&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=120&section=footer"/> </p> <p align="center"> <b>⚡ Designing the future, one line of code at a time ⚡</b> </p> ```
+## 🌟 Strengths
+
+- 🧠 Creative Problem Solving  
+- 👥 Leadership & Team Management  
+- 💬 Strong Communication Skills  
+
+---
+
+## 🎯 Hobbies
+
+✍️ Writing | 📖 Reading | 🌱 Gardening | 🍳 Cooking | 🧹 Organizing | 🐱 Pet Care
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsNooms&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b)
+- 🌐 [Portfolio](https://itsnooms.github.io/NOOMS/)
+- 🧑‍💻 [GitHub](https://github.com/itsNooms)
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨  
+Let’s build something amazing together 🚀
+</p>
