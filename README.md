@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 I'm a **passionate and motivated Computer Science student** with a strong interest in  
-**programming, web development, and problem-solving**.
+**designing, web development, and problem-solving**.
 
 - 🌱 Currently learning **Python, Java, Databases & Cloud Computing**
 - 🚀 Love building **real-world web applications**
