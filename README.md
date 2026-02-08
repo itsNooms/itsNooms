@@ -1,225 +1,130 @@
-<h1 align="center">Hi 👋, I'm Nooman Nasir Khan</h1>
-<h3 align="center">Computer Science Student | Aspiring FrontEnd Developer & Designer</h3>
+<h1 align="center">
+( •̀ ω •́ )✧  Hi, I'm <span style="color:black">Nooman Nasir Khan</span>
+</h1>
+
+<h3 align="center">
+⚔️ Computer Science Student | Aspiring Front-End Developer & Designer ⚔️
+</h3>
 
 <p align="center">
-On a journey to become a great human being 🌱
+「 On a journey to become a great human being 」🌱
+</p>
+
+<p align="center">
+━━━━━━━ ✦ ✧ ✦ ━━━━━━━
+</p>
+
+## 🖋️ ORIGIN STORY
+
+> *Every manga hero starts somewhere…*
+
+I’m a **passionate and motivated Computer Science student**  
+driven by **code, creativity, and curiosity**.
+
+- 🎓 **B.Tech CSE** (2022 – 2026)
+- 💻 Builds real-world applications
+- 🌱 Learning **Python, Java & DBMS**
+- 🚀 Exploring **Full-Stack & System Design**
+- 🤝 Open to **internships & collaborations**
+
+---
+
+## ⚔️ SKILL TREE
+
+### 🧠 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
+
+### 🌐 Web Arsenal
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎓 ACADEMY ARC
 
-<table>
-<tr>
-<td width="50%">
+🏫 **Maharaj Vijayaram Gajapathi Raj College of Engineering**  
+*Bachelor of Technology – Computer Science*
 
-I am a passionate and motivated Computer Science student with a strong interest in programming, web development, and problem-solving. I enjoy building real-world applications and continuously improving my technical skills.
-
-</td>
-<td width="50%">
-
-- B.Tech in Computer Science (2022–2026)  
-- Interested in Web Development and Design  
-- Currently learning Python, Java, and Databases  
-- Exploring full-stack development  
-- Open to internships and collaborations  
-
-</td>
-</tr>
-</table>
+🏫 **NRI Junior College**  
+*MPC – Maths, Physics, Chemistry*
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧩 QUEST LOG (PROJECTS)
 
-<table>
-<tr>
-<td width="50%">
+- 🏥 **Health Care Chatbot (Python)**  
+  Hospital search, appointments & emergency support
 
-### Programming Languages  
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
+- 🥬 **Organic E-Commerce Website**  
+  Campus-grown vegetables web platform
 
-</td>
-<td width="50%">
+- 🚆 **Train Ticket Booking System (C)**  
+  Built using **DSA fundamentals**
 
-### Web Technologies  
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+- 🚗 **Car Sales Management System (SQL)**  
+  Sales & employee database system
 
-</td>
-</tr>
-</table>
+- 🍽️ **Digital QR Menu**  
+  QR-based smart menu system
 
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-### Databases  
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-</td>
-<td width="50%">
-
-### Tools  
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
-</td>
-</tr>
-</table>
+- 🧮 **Basic Calculator**  
+  HTML & CSS powered mini-tool
 
 ---
 
-## 📌 Education
+## 💼 TRAINING ARC
 
-<table>
-<tr>
-<td width="50%">
-
-**Maharaj Vijayaram Gajapathi Raj College of Engineering**  
-Bachelor of Technology – Computer Science  
-(2022 – 2026)
-
-</td>
-<td width="50%">
-
-**NRI Junior College**  
-MPC (Mathematics, Physics, Chemistry)
-
-</td>
-</tr>
-</table>
+- 👨‍💻 **Front-End Developer Intern – Cognifyz**
+- 📊 **Data Visualization – TATA (Forage)**
+- ☁️ **AWS Solution Architecture – Forage**
 
 ---
 
-## 🚀 Projects
+## 📜 SCROLLS OF CERTIFICATION
 
-<table>
-<tr>
-<td width="50%">
-
-**Health Care Chatbot (Python)**  
-Hospital search, appointment booking, and emergency response support.
-
-<br><br>
-
-**Train Ticket Booking System (C)**  
-Implemented using Data Structures and Algorithms.
-
-<br><br>
-
-**Digital QR Menu**  
-QR-based menu for cafes and restaurants.
-
-</td>
-<td width="50%">
-
-**Organic E-Commerce Website**  
-Web application for selling organic vegetables grown on campus.
-
-<br><br>
-
-**Car Sales Management System (SQL)**  
-Database system for managing sales and employee records.
-
-<br><br>
-
-**Basic Calculator**  
-Developed using HTML and CSS.
-
-</td>
-</tr>
-</table>
+- ☁️ Cloud Computing – **NPTEL**
+- 🧭 Leadership & Team Effectiveness – **NPTEL**
+- 🤖 AIML Internship – **AICTE**
+- 📱 Android Developer – **AICTE**
+- 🧱 AutoCAD – **GUVI**
+- 🤯 ChatGPT for Everyone – **GUVI**
+- 🌐 Packet Tracer – **CISCO**
+- ⚙️ C++ Programming – **CLA**
 
 ---
 
-## 💼 Experience & Internships
+## 🌍 ALLIANCES
 
-<table>
-<tr>
-<td width="50%">
-
-- Front-End Developer Intern – Cognifyz  
-- Data Visualization – TATA (Forage)
-
-</td>
-<td width="50%">
-
-- AWS Solution Architecture – Forage  
-
-</td>
-</tr>
-</table>
+- 🌐 Google Developer Group (GDG)
+- 🎥 BOI – Born On Instagram
+- ♻️ Swacha GLUG (College Club)
 
 ---
 
-## 📜 Certifications
+## ✨ SPECIAL TRAITS
 
-<table>
-<tr>
-<td width="50%">
-
-- Cloud Computing – NPTEL  
-- Leadership & Team Effectiveness – NPTEL  
-- AIML Virtual Internship – AICTE  
-- Android Developer Virtual Internship – AICTE  
-
-</td>
-<td width="50%">
-
-- AutoCAD – GUVI  
-- ChatGPT for Everyone – GUVI  
-- Packet Tracer – CISCO  
-- C++ Programming – CLA  
-
-</td>
-</tr>
-</table>
+- 🧠 Creative Problem Solving
+- 👥 Leadership & Team Management
+- 💬 Strong Communication Skills
 
 ---
 
-## 🌍 Communities & Strengths
+## 🎭 OFF-DUTY LIFE
 
-<table>
-<tr>
-<td width="50%">
-
-### Communities
-- Google Developer Group (GDG)  
-- BOI – Born On Instagram Creators  
-- Swacha GLUG  
-
-</td>
-<td width="50%">
-
-### Strengths
-- Creative Problem Solving  
-- Leadership and Team Management  
-- Strong Communication Skills  
-
-</td>
-</tr>
-</table>
+✍️ Writing | 📖 Reading | 🌱 Gardening | 🍳 Cooking  
+👻 Horror Anime/Movies | 🐱 Pet Care | 🧹 Organizing
 
 ---
 
-## 🎯 Hobbies
-
-Writing • Reading • Gardening • Cooking • Organizing • Watching Horror Genre • Pet Care
-
----
-
-## 📊 GitHub Stats
+## 📊 POWER LEVEL
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=dark" />
@@ -228,14 +133,15 @@ Writing • Reading • Gardening • Cooking • Organizing • Watching Horror
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 CONTACT PORTAL
 
-- LinkedIn: https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b  
-- Portfolio: https://itsnooms.github.io/NOOMS/  
-- GitHub: https://github.com/itsNooms  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b)
+- 🌐 [Portfolio](https://itsnooms.github.io/NOOMS/)
+- 🧑‍💻 [GitHub](https://github.com/itsNooms)
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨  
+「 Thanks for reading my story 」  
+Let’s build something legendary 🚀
 </p>
