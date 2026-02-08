@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Nooman Nasir Khan aka @itsNooms
-- 👀 I’m interested in frontend developments
-- 🌱 I’m currently learning lot of things, can't specify one!
-- 💞️ I’m looking to collaborate on instagram, reach me out!!
-- 📫 How to reach me? DM me or mail me (mrzainkhan04@gmail.com).
-- 😄 Pronouns: he/him
 
 <h1 align="center">Hi 👋, I'm Nooman Nasir Khan</h1>
 <h3 align="center">Computer Science Student | Frontend Developer | Creative Thinker</h3>
