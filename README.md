@@ -1,7 +1,6 @@
 <p align="center">
   <img src="img.png" alt="Header Banner" width="100%">
 </p>
----
 
 ## 👨‍💻 About Me
 
