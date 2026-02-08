@@ -1,125 +1,117 @@
-<h1 align="center">Hi 👋, I'm Nooman Nasir Khan</h1>
-<h3 align="center">Computer Science Student | Aspiring FrontEnd Developer & Designer </h3>
+# Nooman Nasir Khan
 
-<p align="center">
-On a journey to become a great human being 🌱
-</p>
+**Computer Science Student | Aspiring Front-End Developer and Designer**
 
 ---
 
-## 👨‍💻 About Me
+## I. Introduction
 
-I’m a **passionate and motivated Computer Science student** with a strong interest in  
-**programming, web development, and problem-solving**.
-
-- 🎓 B.Tech CSE (2022 – 2026)
-- 💻 Love building real-world applications
-- 🌱 Currently learning **Python, Java & Database Management**
-- 🚀 Exploring **full-stack development & system design**
-- 🤝 Open to internships & collaborative projects
+Nooman Nasir Khan is a Computer Science undergraduate with a strong interest in programming, web development, and problem-solving. He is focused on building practical, real-world applications while continuously improving his technical and design skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## II. Academic Background
 
-### Programming Languages                                                      
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
+**Bachelor of Technology in Computer Science**  
+Maharaj Vijayaram Gajapathi Raj College of Engineering  
+Duration: 2022 – 2026  
 
-### Web Technologies
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### Databases & Tools
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+**Intermediate Education (MPC)**  
+NRI Junior College  
+Mathematics, Physics, and Chemistry  
 
 ---
 
-## 📌 Education
+## III. Technical Skills
 
-🎓 **Maharaj Vijayaram Gajapathi Raj College of Engineering**  
-Bachelor of Technology – Computer Science  
+### A. Programming Languages
+- C  
+- C++  
+- Python  
+- Java  
 
-🏫 **NRI Junior College**  
-MPC (Maths, Physics, Chemistry) 
+### B. Web Technologies
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Tailwind CSS  
+- Bootstrap  
 
----
-
-## 🚀 Projects
-
-- 🏥 **Health Care Chatbot (Python)**  
-  Helps with hospital search, appointments & emergency responses
-
-- 🥬 **Organic E-Commerce Website**  
-  Web app to sell organic vegetables grown on campus
-
-- 🚆 **Train Ticket Booking System (C)**  
-  Implemented using DSA concepts
-
-- 🚗 **Car Sales Management System (SQL)**  
-  Database system for sales & employee records
-
-- 🍽️ **Digital QR Menu**  
-  QR-based digital menu for cafes & restaurants
-
-- 🧮 **Basic Calculator**  
-  Built using HTML & CSS
+### C. Databases and Tools
+- MySQL  
+- MongoDB  
+- Git  
+- GitHub  
 
 ---
 
-## 💼 Experience & Internships
+## IV. Projects
 
-- 👨‍💻 **Front-End Developer Intern – Cognifyz**
-- 📊 **Data Visualization – TATA (Forage)**
-- ☁️ **AWS Solution Architecture – Forage**
+**Health Care Chatbot (Python)**  
+Developed a chatbot to assist users with hospital discovery, appointment scheduling, and emergency response support.
 
----
+**Organic E-Commerce Website**  
+Designed and developed a web application to sell organic vegetables grown on a college campus.
 
-## 📜 Certifications
+**Train Ticket Booking System (C)**  
+Implemented a ticket booking system using Data Structures and Algorithms.
 
-- 📌 Cloud Computing – NPTEL  
-- 📌 Leadership & Team Effectiveness – NPTEL  
-- 📌 AIML Virtual Internship – AICTE  
-- 📌 Android Developer Virtual Internship – AICTE  
-- 📌 AutoCAD – GUVI  
-- 📌 ChatGPT for Everyone – GUVI  
-- 📌 Packet Tracer – CISCO  
-- 📌 C++ Programming – CLA  
+**Car Sales Management System (SQL)**  
+Created a database management system to handle car sales and employee records.
 
----
+**Digital QR Menu System**  
+Developed a QR-based digital menu for cafes and restaurants.
 
-## 🌍 Communities
-
-- 🌐 Google Developer Group (GDG)
-- 🎥 BOI – Born On Instagram Creators
-- ♻️ Swacha GLUG (College Club)
+**Basic Calculator**  
+Built a simple calculator using HTML and CSS.
 
 ---
 
-## 🌟 Strengths
+## V. Experience and Internships
 
-- 🧠 Creative Problem Solving  
-- 👥 Leadership & Team Management  
-- 💬 Strong Communication Skills  
-
----
-
-## 🎯 Hobbies
-
-✍️ Writing | 📖 Reading | 🌱 Gardening | 🍳 Cooking | 🧹 Organizing | 👻 Watching Horror Genre | 🐱 Pet Care
+- Front-End Developer Intern, Cognifyz  
+- Data Visualization Virtual Experience, TATA (Forage)  
+- AWS Solution Architecture Job Simulation, Forage  
 
 ---
 
-## 📊 GitHub Stats
+## VI. Certifications
+
+- Cloud Computing – NPTEL  
+- Leadership and Team Effectiveness – NPTEL  
+- AIML Virtual Internship – AICTE  
+- Android Developer Virtual Internship – AICTE  
+- AutoCAD – GUVI  
+- ChatGPT for Everyone – GUVI  
+- Packet Tracer – CISCO  
+- C++ Programming – CLA  
+
+---
+
+## VII. Professional Memberships
+
+- Google Developer Group (GDG)  
+- Born On Instagram Creators (BOI)  
+- Swacha GLUG (College Technical Club)  
+
+---
+
+## VIII. Core Strengths
+
+- Creative Problem Solving  
+- Leadership and Team Management  
+- Effective Communication Skills  
+
+---
+
+## IX. Interests and Hobbies
+
+Writing, reading, gardening, cooking, organizing and decorating, watching horror genre content, and pet care.
+
+---
+
+## X. GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=dark" />
@@ -128,15 +120,12 @@ MPC (Maths, Physics, Chemistry)
 
 ---
 
-## 🔗 Connect With Me
+## XI. Contact and Online Presence
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b)
-- 🌐 [Portfolio](https://itsnooms.github.io/NOOMS/)
-- 🧑‍💻 [GitHub](https://github.com/itsNooms)
+- LinkedIn: https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b  
+- Portfolio: https://itsnooms.github.io/NOOMS/  
+- GitHub: https://github.com/itsNooms  
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile ✨  
-Let’s build something amazing together 🚀
-</p>
+*This profile summarizes academic background, technical expertise, and project experience in accordance with professional and academic presentation standards.*
