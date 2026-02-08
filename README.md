@@ -108,19 +108,6 @@ Built using HTML & CSS
 
 ---
 
-## 📜 Certifications
-
-- 📌 Cloud Computing – NPTEL  
-- 📌 Leadership & Team Effectiveness – NPTEL  
-- 📌 AIML Virtual Internship – AICTE  
-- 📌 Android Developer Virtual Internship – AICTE  
-- 📌 AutoCAD – GUVI  
-- 📌 ChatGPT for Everyone – GUVI  
-- 📌 Packet Tracer – CISCO  
-- 📌 C++ Programming – CLA  
-
----
-
 ## 🌍 Communities
 
 - 🌐 Google Developer Group (GDG)
