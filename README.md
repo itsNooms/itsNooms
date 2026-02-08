@@ -20,23 +20,30 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 
 ---
 
-## 🛠️ Skills & Technologies
-                                                     
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-⬛⬛
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-⬛⬛
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![GitHub](https://skillicons.dev/icons?i=github)
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
+
+<br>
+
+### 🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+<br>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
+</p>
+
+</div>
 
 ---
 
@@ -50,25 +57,46 @@ MPC (Maths, Physics, Chemistry)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🏥 **Health Care Chatbot (Python)**  
-  Helps with hospital search, appointments & emergency responses
+<div align="center">
+<table border="0">
+<tr>
+<td width="50%" valign="top" style="border: none;">
 
-- 🥬 **Organic E-Commerce Website**  
-  Web app to sell organic vegetables grown on campus
+### 🏥 Health Care Chatbot (Python)
+Helps with hospital search, appointments & emergency responses
 
-- 🚆 **Train Ticket Booking System (C)**  
-  Implemented using DSA concepts
-  
-- 🚗 **Car Sales Management System (SQL)**  
-  Database system for sales & employee records
+<br>
 
-- 🍽️ **Digital QR Menu**  
-  QR-based digital menu for cafes & restaurants
+### 🥬 Organic E-Commerce Website
+Web app to sell organic vegetables grown on campus
 
-- 🧮 **Basic Calculator**  
-  Built using HTML & CSS
+<br>
+
+### 🚆 Train Ticket Booking System (C)
+Implemented using DSA concepts
+
+</td>
+<td width="50%" valign="top" style="border: none;">
+
+### 🚗 Car Sales Management System (SQL)
+Database system for sales & employee records
+
+<br>
+
+### 🍽️ Digital QR Menu
+QR-based digital menu for cafes & restaurants
+
+<br>
+
+### 🧮 Basic Calculator
+Built using HTML & CSS
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -124,6 +152,12 @@ MPC (Maths, Physics, Chemistry)
 ![GitHub Stars](https://img.shields.io/github/stars/itsNooms?style=social)
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsNooms&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" />
+</p>
+
+
 
 ---
 
