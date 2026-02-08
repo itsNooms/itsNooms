@@ -1,117 +1,225 @@
-# Nooman Nasir Khan
+<h1 align="center">Hi 👋, I'm Nooman Nasir Khan</h1>
+<h3 align="center">Computer Science Student | Aspiring FrontEnd Developer & Designer</h3>
 
-**Computer Science Student | Aspiring Front-End Developer and Designer**
-
----
-
-## I. Introduction
-
-Nooman Nasir Khan is a Computer Science undergraduate with a strong interest in programming, web development, and problem-solving. He is focused on building practical, real-world applications while continuously improving his technical and design skills.
+<p align="center">
+On a journey to become a great human being 🌱
+</p>
 
 ---
 
-## II. Academic Background
+## 👨‍💻 About Me
 
-**Bachelor of Technology in Computer Science**  
-Maharaj Vijayaram Gajapathi Raj College of Engineering  
-Duration: 2022 – 2026  
+<table>
+<tr>
+<td width="50%">
 
-**Intermediate Education (MPC)**  
-NRI Junior College  
-Mathematics, Physics, and Chemistry  
+I am a passionate and motivated Computer Science student with a strong interest in programming, web development, and problem-solving. I enjoy building real-world applications and continuously improving my technical skills.
 
----
+</td>
+<td width="50%">
 
-## III. Technical Skills
+- B.Tech in Computer Science (2022–2026)  
+- Interested in Web Development and Design  
+- Currently learning Python, Java, and Databases  
+- Exploring full-stack development  
+- Open to internships and collaborations  
 
-### A. Programming Languages
-- C  
-- C++  
-- Python  
-- Java  
-
-### B. Web Technologies
-- HTML5  
-- CSS3  
-- JavaScript  
-- React  
-- Tailwind CSS  
-- Bootstrap  
-
-### C. Databases and Tools
-- MySQL  
-- MongoDB  
-- Git  
-- GitHub  
+</td>
+</tr>
+</table>
 
 ---
 
-## IV. Projects
+## 🛠️ Skills & Technologies
+
+<table>
+<tr>
+<td width="50%">
+
+### Programming Languages  
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+
+</td>
+<td width="50%">
+
+### Web Technologies  
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### Databases  
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+</td>
+<td width="50%">
+
+### Tools  
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Education
+
+<table>
+<tr>
+<td width="50%">
+
+**Maharaj Vijayaram Gajapathi Raj College of Engineering**  
+Bachelor of Technology – Computer Science  
+(2022 – 2026)
+
+</td>
+<td width="50%">
+
+**NRI Junior College**  
+MPC (Mathematics, Physics, Chemistry)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
 
 **Health Care Chatbot (Python)**  
-Developed a chatbot to assist users with hospital discovery, appointment scheduling, and emergency response support.
+Hospital search, appointment booking, and emergency response support.
 
-**Organic E-Commerce Website**  
-Designed and developed a web application to sell organic vegetables grown on a college campus.
+<br><br>
 
 **Train Ticket Booking System (C)**  
-Implemented a ticket booking system using Data Structures and Algorithms.
+Implemented using Data Structures and Algorithms.
+
+<br><br>
+
+**Digital QR Menu**  
+QR-based menu for cafes and restaurants.
+
+</td>
+<td width="50%">
+
+**Organic E-Commerce Website**  
+Web application for selling organic vegetables grown on campus.
+
+<br><br>
 
 **Car Sales Management System (SQL)**  
-Created a database management system to handle car sales and employee records.
+Database system for managing sales and employee records.
 
-**Digital QR Menu System**  
-Developed a QR-based digital menu for cafes and restaurants.
+<br><br>
 
 **Basic Calculator**  
-Built a simple calculator using HTML and CSS.
+Developed using HTML and CSS.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## V. Experience and Internships
+## 💼 Experience & Internships
 
-- Front-End Developer Intern, Cognifyz  
-- Data Visualization Virtual Experience, TATA (Forage)  
-- AWS Solution Architecture Job Simulation, Forage  
+<table>
+<tr>
+<td width="50%">
+
+- Front-End Developer Intern – Cognifyz  
+- Data Visualization – TATA (Forage)
+
+</td>
+<td width="50%">
+
+- AWS Solution Architecture – Forage  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## VI. Certifications
+## 📜 Certifications
+
+<table>
+<tr>
+<td width="50%">
 
 - Cloud Computing – NPTEL  
-- Leadership and Team Effectiveness – NPTEL  
+- Leadership & Team Effectiveness – NPTEL  
 - AIML Virtual Internship – AICTE  
 - Android Developer Virtual Internship – AICTE  
+
+</td>
+<td width="50%">
+
 - AutoCAD – GUVI  
 - ChatGPT for Everyone – GUVI  
 - Packet Tracer – CISCO  
 - C++ Programming – CLA  
 
+</td>
+</tr>
+</table>
+
 ---
 
-## VII. Professional Memberships
+## 🌍 Communities & Strengths
 
+<table>
+<tr>
+<td width="50%">
+
+### Communities
 - Google Developer Group (GDG)  
-- Born On Instagram Creators (BOI)  
-- Swacha GLUG (College Technical Club)  
+- BOI – Born On Instagram Creators  
+- Swacha GLUG  
 
----
+</td>
+<td width="50%">
 
-## VIII. Core Strengths
-
+### Strengths
 - Creative Problem Solving  
 - Leadership and Team Management  
-- Effective Communication Skills  
+- Strong Communication Skills  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## IX. Interests and Hobbies
+## 🎯 Hobbies
 
-Writing, reading, gardening, cooking, organizing and decorating, watching horror genre content, and pet care.
+Writing • Reading • Gardening • Cooking • Organizing • Watching Horror Genre • Pet Care
 
 ---
 
-## X. GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsNooms&show_icons=true&theme=dark" />
@@ -120,7 +228,7 @@ Writing, reading, gardening, cooking, organizing and decorating, watching horror
 
 ---
 
-## XI. Contact and Online Presence
+## 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b  
 - Portfolio: https://itsnooms.github.io/NOOMS/  
@@ -128,4 +236,6 @@ Writing, reading, gardening, cooking, organizing and decorating, watching horror
 
 ---
 
-*This profile summarizes academic background, technical expertise, and project experience in accordance with professional and academic presentation standards.*
+<p align="center">
+✨ Thanks for visiting my profile ✨  
+</p>
