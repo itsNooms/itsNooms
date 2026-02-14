@@ -9,7 +9,7 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 
 - 🎓 B.Tech CSE (2022 – 2026)
 - 💻 Love building real-world applications
-- 🌱 Currently learning **Frontend + Web Development, Ui/Ux Designing & AI **
+- 🌱 Currently learning **Frontend + Web Development, Ui/Ux Designing & AI**
 - 🚀 Exploring **full-stack development & system design**
 - 🤝 Open to internships & collaborative projects
 
