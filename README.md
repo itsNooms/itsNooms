@@ -64,14 +64,10 @@ Smart parking system for community visitors to park efficiently, solving the hus
 <br>
 ### 🏥 Health Care Chatbot (Python)
 Helps with hospital search, appointments & emergency responses
-
 <br>
-
 ### 🥬 Organic E-Commerce Website
 Web app to sell organic vegetables grown on campus
-
 <br>
-
 ### 🚆 Train Ticket Booking System (C)
 Implemented using DSA concepts
 
@@ -80,14 +76,10 @@ Implemented using DSA concepts
 
 ### 🚗 Car Sales Management System (SQL)
 Database system for sales & employee records
-
 <br>
-
 ### 🍽️ Digital QR Menu
 QR-based digital menu for cafes & restaurants
-
 <br>
-
 ### 🧮 Basic Calculator
 Built using HTML & CSS
 
