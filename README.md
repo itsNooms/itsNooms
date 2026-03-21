@@ -23,16 +23,13 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
-
 <br>
 
 ### 🌐 Web Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
-
 <br>
-
 ### 🗄️ Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
