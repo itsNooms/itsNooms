@@ -59,6 +59,11 @@ MPC (Maths, Physics, Chemistry)
 <tr>
 <td width="50%" valign="top" style="border: none;">
 
+### 🚗 SmartParkk
+Smart parking system for community visitors to park efficiently, solving the hustle of parking spaces and entry/exit directory.
+
+<br>
+
 ### 🏥 Health Care Chatbot (Python)
 Helps with hospital search, appointments & emergency responses
 
