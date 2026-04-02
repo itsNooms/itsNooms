@@ -58,28 +58,30 @@ MPC (Maths, Physics, Chemistry)
 <td width="50%" valign="top" style="border: none;">
 
 ### 🚗 SmartParkk
-Smart parking system for community visitors to park efficiently, solving the hustle of parking spaces and entry/exit directory.
+A smart community parking solution designed to eliminate the hassle of space discovery and streamline entry/exit directories.
 <br>
-### 🏥 Health Care Chatbot (Python)
-Helps with hospital search, appointments & emergency responses
+### 🏥 Health Care Chatbot 
+An AI-driven assistant facilitating seamless hospital searches, appointment scheduling, and rapid emergency responses.
 <br>
 ### 🥬 Organic E-Commerce Website
-Web app to sell organic vegetables grown on campus
+A farm-to-campus digital marketplace dedicated to the sale of fresh, organic vegetables grown right on site.
 <br>
-### 🚆 Train Ticket Booking System (C)
-Implemented using DSA concepts
-
+### 🚆 Train Ticket Booking System
+A robust booking engine built on core Data Structures and Algorithms to ensure efficient ticket processing and management
 </td>
 <td width="50%" valign="top" style="border: none;">
-
-### 🚗 Car Sales Management System (SQL)
-Database system for sales & employee records
+  
+### 🍃 NZ Tea 
+Empowering tea estates with a seamless digital platform to manage sales and streamline the journey of tea leaves from harvest to market.
+<br>
+### 🚗 Car Sales Management System 
+A comprehensive database solution for tracking dealership sales performance and maintaining precise employee records.
 <br>
 ### 🍽️ Digital QR Menu
-QR-based digital menu for cafes & restaurants
+Modernizing the dining experience with a contactless, QR-based digital menu system for cafes and restaurants.
 <br>
 ### 🧮 Basic Calculator
-Built using HTML & CSS
+Modernizing the dining experience with a contactless, QR-based digital menu system for cafes and restaurants.
 
 </td>
 </tr>
