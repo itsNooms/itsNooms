@@ -92,7 +92,7 @@ Modernizing the dining experience with a contactless, QR-based digital menu syst
 
 ## 💼 Experience & Internships
 
-- 📈 **UX Design Introduction - LLOYDS Banking Group**
+- 📈 **UX Design Introduction - LLOYDS Banking Group (Forage)**
 - 👨‍💻 **Front-End Developer Intern – Cognifyz**
 - 📊 **Data Visualization – TATA (Forage)**
 - ☁️ **AWS Solution Architecture – Forage**
