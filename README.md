@@ -56,13 +56,13 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </p>
 <p>
-  MySQL&nbsp;&nbsp;&nbsp;&nbsp;
-  MongoDB&nbsp;&nbsp;&nbsp;
+  MySQL&nbsp;&nbsp;&nbsp;
+  Supabase&nbsp;&nbsp;&nbsp;
   Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   GitHub
 </p>
@@ -124,28 +124,43 @@ Modernizing the dining experience with a contactless, QR-based digital menu syst
 
 ---
 
+---
+
 ## 💼 Experience & Internships
 
-- 📈 **UX Design Introduction - LLOYDS Banking Group (Forage)**
-- 👨‍💻 **Front-End Developer Intern – Cognifyz**
-- 📊 **Data Visualization – TATA (Forage)**
-- ☁️ **AWS Solution Architecture – Forage**
+<div align="center">
+
+<img src="https://img.shields.io/badge/UX%20Design%20Intro-Lloyds%20Banking%20Group%20(Forage)-003882?style=for-the-badge&logo=lloydsbank&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend%20Developer%20Intern-Cognifyz-FF6B35?style=for-the-badge&logo=html5&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Data%20Visualization-TATA%20(Forage)-00205B?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Solution%20Architecture-Forage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 🌍 Communities
 
-- 🌐 Google Developer Group (GDG)
-- 🎥 BOI – Born On Instagram Creators
-- ♻️ Swacha GLUG (College Club)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Developer%20Group-GDG-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOI-Born%20On%20Instagram%20Creators-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swacha%20GLUG-College%20Club-2ECC71?style=for-the-badge&logo=linux&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 🌟 Strengths
 
-- 🧠 Creative Problem Solving  
-- 👥 Leadership & Team Management  
-- 💬 Strong Communication Skills  
+<div align="center">
+
+<img src="https://img.shields.io/badge/🧠%20Creative-Problem%20Solving-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👥%20Leadership-Team%20Management-E74C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💬%20Strong-Communication%20Skills-1ABC9C?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -169,15 +184,23 @@ Modernizing the dining experience with a contactless, QR-based digital menu syst
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsNooms&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" />
 </p>
 
-
-
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b)
-- 🌐 [Portfolio](https://itsnooms.github.io/NOOMS/)
-- 🧑‍💻 [GitHub](https://github.com/itsNooms)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nooman-nasir-khan-07b49a26b">
+  <img src="https://img.shields.io/badge/LinkedIn-Nooman%20Nasir%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> &nbsp;&nbsp;
+<a href="https://itsnooms.github.io/NOOMS/">
+  <img src="https://img.shields.io/badge/Portfolio-itsNooms-FF5733?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a> &nbsp;&nbsp;
+<a href="https://github.com/itsNooms">
+  <img src="https://img.shields.io/badge/GitHub-itsNooms-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
