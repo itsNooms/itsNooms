@@ -14,26 +14,57 @@ I’m a **passionate and motivated Computer Science student** with a strong inte
 - 🤝 Open to internships & collaborative projects
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=c" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48"/>
 </p>
-<br>
+<p>
+  &nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Python&nbsp;&nbsp;&nbsp;&nbsp;
+  Java
+</p>
 
 ### 🌐 Web Technologies
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
 </p>
-<br>
+<p>
+  &nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  JS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Tailwind&nbsp;&nbsp;&nbsp;
+  Bootstrap
+</p>
 
 ### 🗄️ Databases & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+</p>
+<p>
+  MySQL&nbsp;&nbsp;&nbsp;&nbsp;
+  MongoDB&nbsp;&nbsp;&nbsp;
+  Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  GitHub
 </p>
 
 </div>
