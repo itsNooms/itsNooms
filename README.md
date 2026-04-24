@@ -60,7 +60,7 @@ MPC (Maths, Physics, Chemistry)
 ### 🚗 SmartParkk
 A smart community parking solution designed to eliminate the hassle of space discovery and streamline entry/exit directories.
 <br>
-### 🕌 Msoque's namaz times real time update
+### 🕌 Mosque's namaz times real time update
 A pwa where the namaz-timings can be known by people in real time from anywhere 
 <br>
 ### 🏥 Health Care Chatbot 
